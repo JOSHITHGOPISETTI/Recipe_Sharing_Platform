@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Recipe_Sharing_Platform/static/css/main.49173d45.css",
+    "main.js": "/Recipe_Sharing_Platform/static/js/main.80c2334f.js",
+    "static/js/787.633816a4.chunk.js": "/Recipe_Sharing_Platform/static/js/787.633816a4.chunk.js",
+    "index.html": "/Recipe_Sharing_Platform/index.html",
+    "main.49173d45.css.map": "/Recipe_Sharing_Platform/static/css/main.49173d45.css.map",
+    "main.80c2334f.js.map": "/Recipe_Sharing_Platform/static/js/main.80c2334f.js.map",
+    "787.633816a4.chunk.js.map": "/Recipe_Sharing_Platform/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49173d45.css",
+    "static/js/main.80c2334f.js"
+  ]
+}
